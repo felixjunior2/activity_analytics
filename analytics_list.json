@@ -1,0 +1,19 @@
+  "analytics": [
+    {
+      "name": "Acedeu à atividade",
+      "type": "boolean"
+    },
+    {
+      "name": "Pontuação total",
+      "type": "numeric"
+    },
+    {
+      "name": "Tempo total de realização",
+      "type": "numeric"
+    },
+    {
+      "name": "Percentagem de respostas corretas",
+      "type": "percentage"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "inveniraStdID": "std_1",
+    "quantAnalytics": [
+      {
+        "name": "Acedeu à atividade",
+        "value": true
+      },
+      {
+        "name": "Pontuação total",
+        "value": 7
+      },
+      {
+        "name": "Percentagem de respostas corretas", 
+        "value": "70.0"
+      }
+    ],
+    "qualAnalytics": [
+      {
+        "Perfil de Desempenho": "https://url-analytics/perfil/std_1"
+      }
+    ]
+  }
+]

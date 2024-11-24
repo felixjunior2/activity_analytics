@@ -1,0 +1,9 @@
+  
+{
+"name": "Atividade Quiz Gamify",
+  "config_url": "https://quiz-gamify.onrender.com/config",
+  "json_params_url": "https://quiz-gamify.onrender.com/params",
+  "user_url": "https://quiz-gamify.onrender.com/deploy",
+  "analytics_url": "https://quiz-gamify.onrender.com/analytics",
+  "analytics_list_url": "https://quiz-gamify.onrender.com/analytics-list"
+}

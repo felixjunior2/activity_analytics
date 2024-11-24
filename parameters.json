@@ -1,0 +1,36 @@
+[
+  {
+    "name": "num_questions",
+    "label": "Number of Questions",
+    "type": "select",
+    "options": [5, 10, 15, 20, 30, 40, 50]
+  },
+  {
+    "name": "category",
+    "label": "Select Category",
+    "type": "select",
+    "options": [
+      "general knowledge",
+      "books",
+      "science",
+      "math",
+      "history",
+      "computer",
+      "geography",
+      "politics",
+      "art"
+    ]
+  },
+  {
+    "name": "difficulty",
+    "label": "Select Difficulty",
+    "type": "select",
+    "options": ["easy", "medium", "hard"]
+  },
+  {
+    "name": "time",
+    "label": "Time per Question (seconds)",
+    "type": "select",
+    "options": [10, 15, 20, 25, 30, 60]
+  }
+]
